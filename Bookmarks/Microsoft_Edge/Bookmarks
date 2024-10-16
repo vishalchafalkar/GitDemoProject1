@@ -1,0 +1,72 @@
+{
+   "checksum": "6053b82b7883f2f28e6652a1754157da",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13330511746349726",
+               "date_last_used": "13337169107164413",
+               "guid": "2baeb527-a112-4031-92fb-f7292b07e41b",
+               "id": "8",
+               "name": "ItaaS Portal",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://groupit.capgemini.com/pages/services/itaas/",
+               "visit_count": 0
+            }, {
+               "date_added": "13330511746349726",
+               "date_last_used": "13337169102809406",
+               "guid": "be684a84-0900-4250-8450-1ebd966044e8",
+               "id": "9",
+               "name": "Service Central",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://servicecentral.capgemini.com/sc",
+               "visit_count": 0
+            } ],
+            "date_added": "13330612936431865",
+            "date_last_used": "0",
+            "date_modified": "13330612936431865",
+            "guid": "83e8e899-3d4f-45e2-8a26-6ad25b3f13b8",
+            "id": "7",
+            "name": "Capgemini",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13341393848444360",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13341393848444365",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341393848444368",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Co0BCg4IiIECEghyzZQtkgEAABIAGlhVK0xJbllGMGJ0T1JxMTZTQUgwU04rY3JYN3JmSEZYU29OUy9iamxRQ213OFRxSmxYcEh2WFZ3d1lNYUcvazVmdDFkd2NHK0tOUlRZcEFtQXZDeUNUdz09KhhLQjhyamhzQU9acWlQdHh5bXRGWWJRPT1IA6AGDCABEqcBCAcSogEKHFY2NjNhVk5JRGdhU20xWEMxcFBMb1ZiVWE5Zz0SJDgzZThlODk5LTNkNGYtNDVlMi04YTI2LTZhZDI1YjNmMTNiOBgAIAEoATDhltPsojI4156O5KExQK+r/5HkMUocWUI0bW1BTUZpWC9yZnVMSnEvQktVMFZsUUJJPVoeIhxMUzl4T2RDNEdkZUpOeWd0cTN6b21GSXdnQnM9ZQAAAAASpwEICBKiAQocQ1lrRVJod2JwaVR5cG5NV1RZQ2dLQ2FXYlZvPRIkMmJhZWI1MjctYTExMi00MDMxLTkyZmItZjcyOTJiMDdlNDFiGAAgASgBMPGa0+yiMjidn47koTFA0br/keQxShxRWlhVdGFxRHVkdlE2ekhmVGdsVjNRVHArUkU9Wh4iHGxOeUtYbEsrUzgxVWpSVW1oVDU2Y05NVVpuQT1l1peU3xKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRkZDk2ZTc4My1iYWU3LTU2ZTQtYjFhNS0yYjlmMTVlMGNhMWIYACAAKAAw1+TS75EwOP7o0u+RMED+6NLvkTBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCAkSowEKHE5RNjI0RXV2UHBXM1dyQ1JOV2JRcDFmV0J0QT0SJGJlNjg0YTg0LTA5MDAtNDI1MC04NDUwLTFlYmQ5NjYwNDRlOBgAIAIoAjDwmtPsojI41p+O5KExQPKR0+yiMkocaHRIT0FZK1ZlQ0hxa1Rsb3NBUnNqcWhFeXBBPVofIh22Ryt0TjQyNHprSlRhbzFCcmdDemEyVzBheWx3PWVSMJokEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGY3NDUzMjI0LWZiMzItNTc1Yi04MmM5LTg4NjNiMGYwMTE0MBgAIAAoADDX5NLvkTA4renS75EwQK3p0u+RMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkN2NlODljMTQtZDYwNi01ZjhmLWJlNTMtM2RjMDNhZmZiYTcwGAAgACgAMNfk0u+RMDjo6tLvkTBA6OrS75EwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}

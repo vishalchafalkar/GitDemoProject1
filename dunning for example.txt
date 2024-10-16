@@ -1,0 +1,33 @@
+dunning for example
+
+1.) when  customer has taken  vmware service subcription for 6 month for that he  have pay 5000 dollar and the 6 month is completed and still he is not paid that amount  so is known as dunning customer  .
+2.) dunning notification is nothing but email notification or call notification.
+
+by using subcription account id we are doing this dunning .
+
+
+STANDARD DUNNING
+reminder in vmware dunning process
+Day 1-reminder to pay bill
+Day 6-reminder to pay bill
+Day 10-reminder to pay bill
+Day 14-reminder to pay bill
+Day 15-suspended the customer service-we are sending 4 prior notification i.e reminder 1,2,3,4
+Day 18 -is also same as Day 15 
+Day 22- Reminder of termination of vmware service we are sending 5 prior notification i.e reminder1,2,3,4,5
+Day 23-Final notification i.e your service type has been terminated.
+
+ACCELEARTED DUNNING
+Day 1-declined
+Day 6-suspended
+
+
+
+
+difference between retry and dunning
+
+1.retry is happen on Day 5 and In dunning notication is genreted on Day6
+2.one day before notification the rety is happen.
+
+
+

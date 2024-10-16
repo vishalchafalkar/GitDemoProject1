@@ -1,0 +1,33 @@
+UAT 2
+
+
+
+
+1. First we have to create customer in admin portal.
+
+2. Activate  the customer by using email address.
+
+3. Then we have to create customer in EBS by searching name then enter address and postal code.
+
+4. Then in usage we have to give bill to,ship to ,sold to and deliver to.
+
+5. Then go to contact and enter name and select it.
+
+6. Check the telecomunication is email or not.
+
+7. Then go to contact roles and In dercription we have to enter again bill to,ship to,sold to and deliver to and save     
+it.
+
+8. Then customer number is created for EBS ,copy it and save it.
+
+9. Then go to quick sales order enter customer name and order type ( standard only US ).
+
+10.Then pass the address detail and select address detail and give customer contact that is ( sold To ).
+
+11.Then in order item write SPP-CREDIT-C give some quantity and we have write number of lines.
+
+12.Then save it and make note that sales order number example ( 13397474 ).
+
+13.After that click on booked order and order is booked.
+
+14.Wait for 5 minuts then see that status is completed or not .
